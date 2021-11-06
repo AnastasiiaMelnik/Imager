@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AnastasiaImageApplication</string>
+    <string name="enter_image_url">enter image url</string>
+    <string name="load_image">Load image</string>
+    <string name="successfully">Image successfully loaded</string>
+    <string name="fail">Can\'t load this image,please check url</string>
+</resources>
